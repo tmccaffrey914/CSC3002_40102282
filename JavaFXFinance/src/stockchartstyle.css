@@ -1,0 +1,19 @@
+.chart-series-line {
+	-fx-stroke:#AB4642;
+}
+.chart-line-symbol { /* solid circle */
+	-fx-background-color: #AB4642;
+	-fx-background-radius: 3px;
+	-fx-padding: 3px;
+}
+.chart-legend {
+	-fx-background-color:transparent;
+}
+.chart-title {
+	-fx-text-fill: #525252;
+	-fx-font-size: 1.6em;
+}
+.axis-label {
+	-fx-text-fill: #525252;
+	-fx-font-size: 1em;
+}

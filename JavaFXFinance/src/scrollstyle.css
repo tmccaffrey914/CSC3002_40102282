@@ -1,0 +1,7 @@
+.scroll-bar .increment-button {
+	-fx-padding: 0.5em;
+}
+
+.scroll-bar .decrement-button {
+	-fx-padding: 0.5em;
+} 

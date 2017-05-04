@@ -1,0 +1,63 @@
+#fb
+{
+	-fx-background-image: url('../img/Facebook.jpg');
+	-fx-padding: 24 32 24 32;
+	-fx-background-position: center center;
+	-fx-background-repeat: no-repeat;
+}
+
+#aapl
+{
+	-fx-background-image: url('../img/Apple.jpg');
+	-fx-padding: 24 32 24 32;
+	-fx-background-position: center center;
+	-fx-background-repeat: no-repeat;
+}
+
+#yhoo
+{
+	-fx-background-image: url('../img/Yahoo.png');
+	-fx-padding: 24 32 24 32;
+	-fx-background-position: center center;
+	-fx-background-repeat: no-repeat;
+}
+
+#menu
+{
+	-fx-background-image: url('../img/Home.jpg');
+	-fx-padding: 24 32 24 32;
+	-fx-background-position: center center;
+	-fx-background-repeat: no-repeat;
+}
+
+#stock
+{
+	-fx-background-image: url('../img/ViewStocks.png');
+	-fx-padding: 24 32 24 32;
+	-fx-background-position: center center;
+	-fx-background-repeat: no-repeat;
+}
+
+#ops
+{
+	-fx-background-image: url('../img/ViewOptions.png');
+	-fx-padding: 24 32 24 32;
+	-fx-background-position: center center;
+	-fx-background-repeat: no-repeat;
+}
+
+#load
+{
+	-fx-background-image: url('../img/CommandPrompt.png');
+	-fx-padding: 24 32 24 32;
+	-fx-background-position: center center;
+	-fx-background-repeat: no-repeat;
+}
+
+#refresh
+{
+	-fx-background-image: url('../img/Refresh.png');
+	-fx-padding: 24 32 24 32; 
+	-fx-background-position: center center; 
+	-fx-background-repeat: no-repeat;
+}
